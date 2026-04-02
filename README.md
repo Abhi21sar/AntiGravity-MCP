@@ -1,4 +1,4 @@
-# 🛠️ AntiGravity-Storage
+# 🛠️ AntiGravity-MCP
 
 A powerful, dual-transport Model Context Protocol (MCP) server that enables your AI agents to securely read and write files within a sandbox environment.
 
