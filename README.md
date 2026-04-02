@@ -70,4 +70,5 @@ uv run mcp_server.py
 
 ## 📜 License
 
-MIT License - 2026 Abhishek Sar
+MIT License - 2026 Abhishek Gurjar
+# AntiGravity-MCP
